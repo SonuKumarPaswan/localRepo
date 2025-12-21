@@ -8,4 +8,6 @@ export const mul=(a,b)=>{
 
 export const div=( x,y) =>{
      return x / y;
+  
 }
+
